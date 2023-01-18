@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 Estou desenvolvendo back-end
-- 🌱 Atualmente estudando Java e Springboot
+- 🌱 Atualmente estudando Java 
 
 <div align="center">
   <a href="https://github.com/Gabriel-Nunes-dev">
