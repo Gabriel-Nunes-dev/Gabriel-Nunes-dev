@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-- 🔭 Estou desenvolvendo FullStack
-- 🌱 Atualmente estudando Banco de dados Oracle 
+
 
 <div align="center">
   <a href="https://github.com/Gabriel-Nunes-dev">
