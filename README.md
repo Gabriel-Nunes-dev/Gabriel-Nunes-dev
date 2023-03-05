@@ -1,8 +1,5 @@
-![MasterHead](http://propulsive.in/assets/img/service-icon/web.gif)
-
-
 ### Hi there 👋
-
+![MasterHead](http://propulsive.in/assets/img/service-icon/web.gif)
 
 <div align="center">
   <a href="https://github.com/Gabriel-Nunes-dev">
