@@ -1,15 +1,15 @@
 ### Hi there 👋
-https://tenor.com/bdZtT.gif
+
 
 <h1 align="center">Hi 👋, I'm Gabriel Nunes</h1>
 <h3 align="center">A passionate Back-End developer from Brazil</h3>
-<img align="right" alt="Coding" width="400" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif">
 
-<div align="center">
+
+<div>
   <a href="https://github.com/Gabriel-Nunes-dev">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gabriel-Nunes-dev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Nunes-dev&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheussa150201&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Nunes-dev&layout=compact&langs_count=7&theme=dark"/>
+</ div   >  
   
 ##
   
