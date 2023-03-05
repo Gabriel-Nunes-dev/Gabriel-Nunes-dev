@@ -33,8 +33,8 @@
 <table>
   <tr>
     <td align="center" width="96">
-        <img src="[https://techstack-generator.vercel.app/csharp-icon.svg](https://icons8.com/icon/ETDhNONw82Nc/java)" alt="icon" width="65" height="65" />
-      <br>C#
+        <img src="[https://techstack-generator.vercel.app/csharp-icon.svg](https://icons8.com/icon/ETDhNONw82Nc/java)" />
+      <br>
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
