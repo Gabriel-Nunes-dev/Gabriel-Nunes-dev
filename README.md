@@ -1,6 +1,10 @@
 ### Hi there 👋
 ![MasterHead](http://propulsive.in/assets/img/service-icon/web.gif)
 
+<h1 align="center">Hi 👋, I'm Gabriel Nunes</h1>
+<h3 align="center">A passionate Back-End developer from Brazil</h3>
+<img align="right" alt="Coding" width="400" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif">
+
 <div align="center">
   <a href="https://github.com/Gabriel-Nunes-dev">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gabriel-Nunes-dev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
