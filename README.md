@@ -1,5 +1,5 @@
 ### Hi there 👋
-![MasterHead](http://propulsive.in/assets/img/service-icon/web.gif)
+
 
 <h1 align="center">Hi 👋, I'm Gabriel Nunes</h1>
 <h3 align="center">A passionate Back-End developer from Brazil</h3>
@@ -33,7 +33,7 @@
 <table>
   <tr>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="65" height="65" />
+        <img src="[https://techstack-generator.vercel.app/csharp-icon.svg](https://icons8.com/icon/ETDhNONw82Nc/java)" alt="icon" width="65" height="65" />
       <br>C#
     </td>
     <td align="center" width="96">
