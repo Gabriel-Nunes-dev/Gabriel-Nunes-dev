@@ -59,7 +59,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Gabriel-Nunes-dev/Gabriel-Nunes-dev/blob/output/snake.svg" alt="Snake animation" />
+![Snake animation](https://github.com/manuteu/manuteu/blob/output/github-contribution-grid-snake.svg)
 
 ###
 
