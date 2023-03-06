@@ -1,6 +1,4 @@
 
-<p align="left">Hello, nice to see you here, my name is Gabriel and I'm currently working as a fullstack developer</p>
-
 ###
 
 <div align="center">
