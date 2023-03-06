@@ -25,7 +25,7 @@
 
 ###
 
-<p align="left">MY FAVS IDE'S AND TOOLS</p>
+<p align="left">MY FAVS WORKPLACES</p>
 
 ###
 
