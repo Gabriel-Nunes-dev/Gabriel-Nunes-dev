@@ -33,4 +33,4 @@
   <img src="https://visitcount.itsvg.in/api?id=loluixs&icon=9&color=9" />
 </p>    
   
-    ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
