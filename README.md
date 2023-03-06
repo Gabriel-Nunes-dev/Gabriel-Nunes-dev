@@ -21,8 +21,6 @@
   <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="84" height="84" /><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="84" height="84" /><img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="84" height="84" /><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="84" height="84" /><img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="84" height="84" /><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="84" height="84" /><img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="84" height="84" /></div>
 </div>
 
-    
-    🏆 GitHub Trophies
 
 <p align="center">
    <img alt="trophies" src="https://github-profile-trophy.vercel.app/?username=Gabriel-Nunes-dev&theme=radical&no-frame=false&no-bg=true&margin-w=4)" />
@@ -30,7 +28,7 @@
 
 <p align="center">
   <a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=loluixs&icon=9&color=9" />
+  <img src="https://visitcount.itsvg.in/api?id=Gabriel-Nunes-dev&icon=9&color=9" />
 </p>    
   
   ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
