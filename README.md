@@ -13,8 +13,6 @@
   <a href="https://instagram.com/gvbnss_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:gabnunesdev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gabriel-nunes-10176b222/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-
-  ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
     
   ## My favorite tools and technologies ⚙️ 
 
@@ -34,3 +32,5 @@
   <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=loluixs&icon=9&color=9" />
 </p>    
+  
+    ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
